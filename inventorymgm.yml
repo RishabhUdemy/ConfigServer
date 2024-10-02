@@ -6,6 +6,3 @@ spring:
   jpa:
     show-sql:true
     generate-ddl:false
-
-server:
-  port: 8081
