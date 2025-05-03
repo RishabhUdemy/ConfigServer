@@ -1,11 +1,8 @@
 network:
   businessType: wholesale
   locationType: local
-server:
-  port: 8081
+
 spring:
-  application:
-    name: distributornetwork
   datasource:
     driver-class-name: oracle.jdbc.OracleDriver
     password: tiger
