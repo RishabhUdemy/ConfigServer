@@ -9,5 +9,6 @@ spring:
   application:
     name: inventory-mgm
 
-server:
-  port: 8081
+network:
+  businessType: wholesale
+  locationType: local
