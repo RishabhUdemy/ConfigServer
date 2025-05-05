@@ -4,6 +4,6 @@ spring:
     username: system
     password: tiger
   jpa:
-    show-sql: true
-    generate-ddl: false
+    show-sql:true
+    generate-ddl:false
   
